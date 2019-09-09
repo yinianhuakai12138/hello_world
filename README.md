@@ -1,3 +1,3 @@
 # hello_world
-Study respository
+Study respository.
 I like this.
